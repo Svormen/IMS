@@ -1,0 +1,2 @@
+# IMS
+Modelovanie a Simulácia
